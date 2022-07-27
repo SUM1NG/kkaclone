@@ -1,3 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:wght@400;600&display=swap");
+@import "reset.css";
+@import "variables.css";
+
+/* Components*/
+@import "components/status-bar.css";
+
+/* Screens */
+@import "screens/login.css";
+
 body {
-  background-color: tomato;
+  font-family: "Ibarra Real Nova", serif;
 }
